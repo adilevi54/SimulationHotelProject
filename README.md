@@ -12,7 +12,6 @@ This project involves the development of an event-driven **Python simulation** t
 ## Technologies Used
 - **Python** (Core development)
 - **NumPy / Pandas** (Data handling & statistical analysis)
-- **SimPy** (Event-driven simulation framework)
 
 ## Results & Insights
 By running multiple simulations and analyzing the results, this project identifies **key factors** that impact hotel performance, helping stakeholders make informed business decisions.
